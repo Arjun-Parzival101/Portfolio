@@ -893,9 +893,14 @@ footer a {
     }
 }
 
-@media (max-width: 768px) {
-    /****NAVBAR****/
-    header .logo {
+
+/* @media (max-width: 768px) { */
+
+
+/****NAVBAR****/
+
+
+/* header .logo {
         font-size: 1.2rem;
     }
     .nav-ul {
@@ -910,7 +915,6 @@ footer a {
         align-items: flex-end;
         display: flex;
         transition: 0.5s;
-        /* flex-direction: column; */
     }
     .navhide {
         display: none;
@@ -924,9 +928,13 @@ footer a {
     .hamburger {
         display: block;
         animation: 2s ease-out 0s 1 slideInLeft;
-    }
-    /****Home****/
-    .home {
+    } */
+
+
+/****Home****/
+
+
+/* .home {
         height: 60vh;
     }
     .title {
@@ -937,9 +945,13 @@ footer a {
     }
     .txt-type {
         font-size: 2.1rem;
-    }
-    /****About****/
-    .about-title {
+    } */
+
+
+/****About****/
+
+
+/* .about-title {
         padding-bottom: 0px;
     }
     .about-heading {
@@ -953,9 +965,13 @@ footer a {
     }
     .about-content {
         padding: 30px 50px;
-    }
-    /****Skills****/
-    .cards {
+    } */
+
+
+/****Skills****/
+
+
+/* .cards {
         margin: 10px;
     }
     .flip-card-container {
@@ -979,7 +995,6 @@ footer a {
     }
     .skills-title {
         padding: 30px;
-        /* padding-bottom: 30px; */
     }
     .skill-topic {
         font-size: 1.2rem;
@@ -990,9 +1005,13 @@ footer a {
     }
     .skill-description p {
         font-size: 1.0rem;
-    }
-    /****Services****/
-    .services-heading {
+    } */
+
+
+/****Services****/
+
+
+/* .services-heading {
         margin: 30px auto;
     }
     .services-para {
@@ -1000,9 +1019,13 @@ footer a {
     }
     .services-description {
         padding: 30px 50px;
-    }
-    /****Contact Me****/
-    .contact-me-title {
+    } */
+
+
+/****Contact Me****/
+
+
+/* .contact-me-title {
         padding: 30px;
     }
     .contact-me-description {
@@ -1037,92 +1060,121 @@ footer a {
         font-size: 0.9rem;
     }
     /****Footer****/
-    .footer-title {
+
+
+/* .footer-title {
         font-size: 0.8rem;
     }
     .footer-icons {
         font-size: 1.2rem;
-    }
-}
+    } */
 
-@media (max-width:500px) {
-    /***Navbar***/
-    header {
-        /* font-size: 0.7rem; */
+
+/* } */
+
+
+/* @media (max-width:500px) { */
+
+
+/***Navbar***/
+
+
+/* header {
+        font-size: 0.7rem;
         padding: 20px 25px;
     }
     .sticky {
         padding: 10px 25px;
     }
     header .logo {
-        /* font-size: 1.1rem; */
+        font-size: 1.1rem;
     }
     .txt-type {
-        /* font-size: 1.5rem; */
+        font-size: 1.5rem;
     }
     .title {
-        /* font-size: 1.2rem; */
-    }
-    /***Home***/
-    .home {
+        font-size: 1.2rem;
+    } */
+
+
+/***Home***/
+
+
+/* .home {
         background-image: url(../images/home-phone2.jpg);
         background-size: cover;
         background-attachment: fixed;
-    }
-    /***About***/
-    .about-content {
+    } */
+
+
+/***About***/
+
+
+/* .about-content {
         padding: 30px 25px;
     }
     .about-heading {
-        /* font-size: 1rem; */
+        font-size: 1rem;
     }
     .about-para {
         padding-top: 30px;
     }
     .about-para p {
-        /* font-size: 0.9rem; */
-    }
-    /***Skills***/
-    .skill-topic {
-        /* font-size: 1rem; */
+        font-size: 0.9rem;
+    } */
+
+
+/***Skills***/
+
+
+/* .skill-topic {
+        font-size: 1rem;
     }
     .skill-description {
         padding: 30px 25px;
     }
     .skill-description p {
-        /* font-size: 0.9rem; */
+        font-size: 0.9rem;
     }
     .flip-card-container {
         width: 100px;
         height: 100px;
     }
     .flip-card-back .stars {
-        /* font-size: 1.0rem; */
+        font-size: 1.0rem;
     }
     .icon-para {
-        /* font-size: 0.7rem; */
-    }
-    /***Services***/
-    .services-description {
+        font-size: 0.7rem;
+    } */
+
+
+/***Services***/
+
+
+/* .services-description {
         padding: 30px 25px;
     }
     .services-para {
-        /* font-size: 0.9rem; */
+        font-size: 0.9rem;
     }
     img {
         width: auto;
         width: 150px;
         height: 100px;
-    }
-    /***Contact***/
-    .contact-me-description {
+    } */
+
+
+/***Contact***/
+
+
+/* .contact-me-description {
         width: 87%;
     }
     .contact-me-description h1 {
-        /* font-size: 1rem; */
+        font-size: 1rem;
     }
     .contact-me-description p {
-        /* font-size: 0.9rem; */
+        font-size: 0.9rem;
     }
     .contact-me-form {
         padding: 25px;
@@ -1140,7 +1192,7 @@ footer a {
     }
     .message {
         width: 70%;
-        /* font-size: 0.8rem; */
+        font-size: 0.8rem;
         padding: 10px;
     }
     .contact-me-form {
@@ -1155,7 +1207,7 @@ footer a {
         padding: 8px;
     }
     .contact-me-name {
-        /* font-size: 0.8rem; */
+        font-size: 0.8rem;
     }
     .detail1,
     .detail2,
@@ -1164,9 +1216,9 @@ footer a {
     }
     .footer-title {
         padding: 10px;
-        /* font-size: 0.7rem; */
+        font-size: 0.7rem;
     }
     .footer-contents i {
         padding: 0px 10px;
     }
-}
+} */
