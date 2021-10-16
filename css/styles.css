@@ -1048,20 +1048,20 @@ footer a {
 @media (max-width:500px) {
     /***Navbar***/
     header {
-        font-size: 0.7rem;
+        /* font-size: 0.7rem; */
         padding: 20px 25px;
     }
     .sticky {
         padding: 10px 25px;
     }
     header .logo {
-        font-size: 1.1rem;
+        /* font-size: 1.1rem; */
     }
     .txt-type {
-        font-size: 1.5rem;
+        /* font-size: 1.5rem; */
     }
     .title {
-        font-size: 1.2rem;
+        /* font-size: 1.2rem; */
     }
     /***Home***/
     .home {
@@ -1074,40 +1074,40 @@ footer a {
         padding: 30px 25px;
     }
     .about-heading {
-        font-size: 1rem;
+        /* font-size: 1rem; */
     }
     .about-para {
         padding-top: 30px;
     }
     .about-para p {
-        font-size: 0.9rem;
+        /* font-size: 0.9rem; */
     }
     /***Skills***/
     .skill-topic {
-        font-size: 1rem;
+        /* font-size: 1rem; */
     }
     .skill-description {
         padding: 30px 25px;
     }
     .skill-description p {
-        font-size: 0.9rem;
+        /* font-size: 0.9rem; */
     }
     .flip-card-container {
         width: 100px;
         height: 100px;
     }
     .flip-card-back .stars {
-        font-size: 1.0rem;
+        /* font-size: 1.0rem; */
     }
     .icon-para {
-        font-size: 0.7rem;
+        /* font-size: 0.7rem; */
     }
     /***Services***/
     .services-description {
         padding: 30px 25px;
     }
     .services-para {
-        font-size: 0.9rem;
+        /* font-size: 0.9rem; */
     }
     img {
         width: auto;
@@ -1119,10 +1119,10 @@ footer a {
         width: 87%;
     }
     .contact-me-description h1 {
-        font-size: 1rem;
+        /* font-size: 1rem; */
     }
     .contact-me-description p {
-        font-size: 0.9rem;
+        /* font-size: 0.9rem; */
     }
     .contact-me-form {
         padding: 25px;
@@ -1140,7 +1140,7 @@ footer a {
     }
     .message {
         width: 70%;
-        font-size: 0.8rem;
+        /* font-size: 0.8rem; */
         padding: 10px;
     }
     .contact-me-form {
@@ -1155,7 +1155,7 @@ footer a {
         padding: 8px;
     }
     .contact-me-name {
-        font-size: 0.8rem;
+        /* font-size: 0.8rem; */
     }
     .detail1,
     .detail2,
@@ -1164,7 +1164,7 @@ footer a {
     }
     .footer-title {
         padding: 10px;
-        font-size: 0.7rem;
+        /* font-size: 0.7rem; */
     }
     .footer-contents i {
         padding: 0px 10px;
